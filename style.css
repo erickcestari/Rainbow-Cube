@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+
+#myDiv{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    position: relative;
+    background-color: hsl(300, 50%, 50%);
+}
